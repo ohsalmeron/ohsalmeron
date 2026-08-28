@@ -6,24 +6,27 @@
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Motoko](https://img.shields.io/badge/-Motoko-3B00B9?style=flat-square&logo=dfinity&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Bevy](https://img.shields.io/badge/-Bevy-232326?style=flat-square&logo=bevy&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![ICP](https://img.shields.io/badge/-ICP-29ABE2?style=flat-square&logo=internetcomputer&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+![ARM](https://img.shields.io/badge/-ARM-0091BD?style=flat-square&logo=arm&logoColor=white)
+![RISC-V](https://img.shields.io/badge/-RISC--V-283272?style=flat-square&logo=riscv&logoColor=white)
 
 ---
 
 ## Start Here
 
 - 🎮 **[Shadows of War](https://github.com/worldofunreal/shadows-of-war)** — Open-source MMORTS · Rust, world maps, civilizations & alliances
-- 🔄 **[Ionic-Swap](https://github.com/worldofunreal/Ionic-Swap)** — Unified DeFi, chain abstraction — swap any asset gaslessly
+- 🔄 **[Ionic-Swap](https://github.com/worldofunreal/Ionic-Swap)** — Unified DeFi with chain abstraction — swap any asset cross-chain gaslessly
 - ⛓️ **[Cosmicrafts](https://cosmicrafts.com)** — Fully on-chain strategy game on ICP
 
 ## World of Unreal
@@ -43,18 +46,17 @@
 ## Infra & Tools · IC & Systems
 - **[cosmicrafts-dao](https://github.com/cosmicrafts/cosmicrafts-dao)** — Vue · on-chain architecture
 - **[Dashboard](https://github.com/cosmicrafts/Dashboard)** — JS · canister calls
+- **[Lead-Smart-AI-Assistant](https://github.com/worldofunreal/Lead-Smart-AI-Assistant)** — Python / C++ / Rust · wearable pendant (ESP32 · ARM)
 - **[github-desktop-freebsd](https://github.com/ohsalmeron/github-desktop-freebsd)** — TS · GitHub Desktop on FreeBSD
 - **[xfce-rs](https://github.com/ohsalmeron/xfce-rs)** — Rust
-- **[ramp](https://github.com/ohsalmeron/ramp)** — Rust · Ollama tool
 
 ---
 
 ## Stats
 
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohsalmeron&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohsalmeron&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ohsalmeron&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)
+<!-- GitHub native contribution graph already shows 1.1k+ contributions — these cards are extra, using only working providers (verified 200) -->
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ohsalmeron&theme=transparent)
+![Streak](https://streak-stats.demolab.com?user=ohsalmeron&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 ## Connect
 
