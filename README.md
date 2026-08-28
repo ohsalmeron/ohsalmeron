@@ -1,6 +1,6 @@
 # Hi, I'm Omar 👋
 
-📍 **Mexico** · 🎮 **Founder @ World of Unreal** · ⛓️ **Cosmicrafts** · 🦀 **Rust / Bevy**
+**Founder @ World of Unreal** 
 
 > Building **Shadows of War** — open-source MMORTS in Rust. Previously Cosmicrafts on ICP. I ship games, infra and tools.
 
@@ -27,7 +27,7 @@
 
 - 🎮 **[Shadows of War](https://github.com/worldofunreal/shadows-of-war)** — Open-source MMORTS · Rust, world maps, civilizations & alliances
 - 🔄 **[Ionic-Swap](https://github.com/worldofunreal/Ionic-Swap)** — Unified DeFi with chain abstraction — swap any asset cross-chain gaslessly
-- ⛓️ **[Cosmicrafts](https://cosmicrafts.com)** — Fully on-chain strategy game on ICP
+- ⛓️ **[Cosmicrafts](https://cosmicrafts.com)** — Futuristic real-time strategy video game.
 
 ## World of Unreal
 - **[shadows-of-war](https://github.com/worldofunreal/shadows-of-war)** — Rust · game server, relay, WASM client
