@@ -56,7 +56,6 @@
 
 <!-- GitHub native contribution graph already shows 1.1k+ contributions — these cards are extra, using only working providers (verified 200) -->
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ohsalmeron&theme=transparent)
-![Streak](https://streak-stats.demolab.com?user=ohsalmeron&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 ## Connect
 
